@@ -7,4 +7,4 @@ This all code that we at screen6 run in production, but **please note** that the
 
 The puppet code in this code is just our extention on the official module for our usecase.
 
-if you have any questions about the usage of the code, i would like to ask you to read the two blogposts first. If after that you still have a question: feel free to comment on the blogpost, submit an issue, or even create a pull request.
+If you have any questions about the usage of the code, i would like to ask you to read the two blogposts first. If after that you still have a question: feel free to comment on the blogpost, submit an issue, or even create a pull request.
