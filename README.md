@@ -1,7 +1,9 @@
 postgresql
 ==========
 
-This is our repository that hosts scripts and puppet code regarding to our two Postgresql blogposts that can be found and read here: http://s6.io/postgresql-on-aws-with-puppet-high-availability-2/ and here: http://s6.io/postgresql-on-aws-with-puppet-backups-and-restore/
+This is our repository that hosts scripts and puppet code regarding to our two Postgresql blogposts.
+Our blogpost about Master slave replication: http://s6.io/postgresql-on-aws-with-puppet-high-availability-2/ 
+Our blogpost about backups and restoring: http://s6.io/postgresql-on-aws-with-puppet-backups-and-restore/
 
 This all code that we at screen6 run in production, but **please note** that the puppet code needs to be combined with the puppet code from the official puppetlabs postgresql module, that can be found here: https://forge.puppetlabs.com/puppetlabs/postgresql or here: https://github.com/puppetlabs/puppetlabs-postgresql
 
