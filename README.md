@@ -1,4 +1,4 @@
-postgresql
+postgresql-tools
 ==========
 
 This is our repository that hosts scripts and puppet code regarding to our two Postgresql blogposts.
